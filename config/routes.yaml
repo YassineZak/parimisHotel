@@ -1,0 +1,3 @@
+HomePage:
+    path: /
+    controller: App\Controller\HomePageController::indexAction
